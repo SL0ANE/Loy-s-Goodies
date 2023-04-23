@@ -1,6 +1,18 @@
 # Loy-s-Goodies
 [![License](https://img.shields.io/badge/license-CC0-blue.svg)](https://github.com/sparklinlabs/superpowers-asset-packs/blob/master/LICENSE.txt)
 
+这个仓库下的资源是由[晴路卡](https://space.bilibili.com/33229178)用[Blockbench](https://twitter.com/blockbench)制作的。  
+仓库下的资源遵循免费知识共享(CC0)协议。  
+
+创作这些资源的初衷是为了服务java版minecraft的地图创作，  
+因此大部分文件是java block/items格式的。  
+而在[`models > generic-model`](https://github.com/SL0ANE/Loy-s-Goodies/tree/main/models/generic-model)下的模型和插件[Animated Java](https://animated-java.dev)应该是完全兼容的。  
+你可以在你的地图或是别的项目中随意使用这些模型。  
+
+如果能在你的项目发布的时候鸣谢一下这个仓库那就太感谢了。
+<br/>
+<br/>
+<br/>
 The assets in this repository are made by [Loy](https://twitter.com/LOY60650244) with [Blockbench](https://twitter.com/blockbench).  
 They are released under the Creative Commons Zero (CC0) license.  
 
