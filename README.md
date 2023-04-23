@@ -4,7 +4,8 @@
 The assets in this repository are made by [Loy](https://twitter.com/LOY60650244) with [Blockbench](https://twitter.com/blockbench).  
 They are released under the Creative Commons Zero (CC0) license.  
 
-These assets was made for vanilla minecraft mapmaking (java edition), which means most of them are in java block/items format.  
+These assets was made for vanilla minecraft mapmaking (java edition),  
+which means most of them are in java block/items format.  
 And those models under [`models > generic-model`](https://github.com/SL0ANE/Loy-s-Goodies/tree/main/models/generic-model) would be compatible with the plugin [Animated Java](https://animated-java.dev).  
 Feel free to use models in this repository in your own maps or other projects.  
 
