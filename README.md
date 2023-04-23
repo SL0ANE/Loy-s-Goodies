@@ -26,3 +26,4 @@ Credit the repository with a link would be appriciated.
 ## Preview
 
 [![](https://github.com/SL0ANE/Loy-s-Goodies/blob/main/preview/arropvp.png)](https://github.com/SL0ANE/Loy-s-Goodies/tree/main/models/java-model/tools%20%26%20weapons)
+[![](https://github.com/SL0ANE/Loy-s-Goodies/blob/main/preview/dragon.png)](https://github.com/SL0ANE/Loy-s-Goodies/tree/main/models/generic-model/creatures)
