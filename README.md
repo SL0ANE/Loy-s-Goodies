@@ -1,5 +1,5 @@
 # Loy-s-Goodies
-[![License](https://img.shields.io/badge/license-CC0-blue.svg)](https://github.com/sparklinlabs/superpowers-asset-packs/blob/master/LICENSE.txt)
+[![License](https://img.shields.io/badge/license-CC0-blue.svg)](https://github.com/SL0ANE/Loy-s-Goodies/blob/main/LICENSE)
 
 这个仓库下的资源是由[晴路卡](https://space.bilibili.com/33229178)用[Blockbench](https://twitter.com/blockbench)制作的。  
 仓库下的资源遵循免费知识共享(CC0)协议。  
